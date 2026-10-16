@@ -42,14 +42,10 @@ Includes a complete stability analysis: amplification factors, stability-region 
 numerical-methods-analysis/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── notebooks/
 │   ├── 01_root_finding_methods.ipynb
 │   ├── 02_numerical_integration.ipynb
 │   └── 03_ode_solvers.ipynb
 ├── figures/           # Generated plots (created when notebooks are run)
-└── utils/
-    └── __init__.py
 ```
 
 ## Getting Started
